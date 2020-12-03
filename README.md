@@ -16,3 +16,11 @@
 
 
 
+## 2. Analog Clock (12/03)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/2.JS%20and%20CSS%20Clock
+
+- 시침, 분침, 초침의 크기를 각각 다르게 제작
+- z-index를 사용해 시침>분침>초침 순으로 정렬
+
+- transform-origin 사용을 통해 시침, 분침, 초침을 움직임
