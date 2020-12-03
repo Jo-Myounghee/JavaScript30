@@ -1,3 +1,7 @@
+![캡처-시계](README.assets/캡처-시계.PNG)
+
+
+
 ## 1. transform-origin
 
 > CSS transform 속성과 함께 사용되는 속성
