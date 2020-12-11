@@ -141,3 +141,6 @@ result; // 6
 
 - `reduce`와 동작은 같지만 요소 순회를 오른쪽에서부터 왼쪽으로 한다는 점이 다름
 
+
+
+출처 : https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d
