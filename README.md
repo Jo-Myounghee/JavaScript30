@@ -106,3 +106,24 @@
 - dev tools (console.dir)
 - axios VS fetch
 
+
+
+## 10. Hold Shift and Check Checkboxes (12/12)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes
+
+### 1) 배운 점
+
+- `this`
+
+
+
+## 11. Custom Video Player (12/12)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player
+
+### 1) 배운 점
+
+- 영상 재생 관련 기능
+  - duration
+  - currentTime
