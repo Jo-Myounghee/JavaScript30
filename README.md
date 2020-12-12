@@ -74,3 +74,35 @@
 ### 1) 배운 점
 
 - fetch
+
+
+
+## 7. Array Cardio Day 2 (12/10)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202
+
+### 1) 배운 점
+
+- 전개 구문 (`...`)
+
+
+
+## 8. Fun with HTML5 Canvas (12/11)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas
+
+### 1) 배운 점
+
+- canvas
+
+
+
+## 9. Dev Tools Domination (12/12)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/09%20-%20Dev%20Tools%20Domination
+
+### 1) 배운 점
+
+- dev tools (console.dir)
+- axios VS fetch
+
