@@ -127,3 +127,47 @@
 - 영상 재생 관련 기능
   - duration
   - currentTime
+
+
+
+## 12. Key Sequence Detection (12/13)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/12%20-%20Key%20Sequence%20Detection
+
+- 코나미코드같은 이스터에그 만들기
+
+  
+
+## 13. Slide in on Scroll (12/14)
+
+
+
+## 14. JavaScript Reference VS Copying (12/15)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying
+
+### 1) 배운 점
+
+- 숫자, 문자, 배열, 객체의 참조와 copy하는 방법
+
+
+
+## 15. LocalStorage (12/15)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow
+
+### 1) 배운 점
+
+- preventDefault()
+
+
+
+## 16. Mouse Move Shadow (12/16)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/16%20-%20Mouse%20Move%20Shadow
+
+### 1) 배운 점
+
+- 변수 여러개 한 번에 할당하는 방법
+- CSS 대문자 속성
+
