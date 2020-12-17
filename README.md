@@ -171,3 +171,12 @@
 - 변수 여러개 한 번에 할당하는 방법
 - CSS 대문자 속성
 
+
+
+## 17. Sort Without Articles (12/17)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles
+
+## 1) 배운 점
+
+- 정규표현식
