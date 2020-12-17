@@ -140,7 +140,11 @@
 
 ## 13. Slide in on Scroll (12/14)
 
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/13%20-%20Slide%20in%20on%20Scroll
 
+- scroll 위치에 따라 img 활성화/비활성화 
+
+  
 
 ## 14. JavaScript Reference VS Copying (12/15)
 
@@ -177,6 +181,6 @@
 
 > https://github.com/Jo-Myounghee/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles
 
-## 1) 배운 점
+### 1) 배운 점
 
 - 정규표현식
