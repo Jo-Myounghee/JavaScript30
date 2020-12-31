@@ -12,7 +12,7 @@
 
 
 
-# 3. event.stropPropagation()
+# 3. event.stopPropagation()
 
 - 가장 직접적으로 이벤트가 발생한 element 이외에 전파(propagation)를 멈추기 위한 함수
 
