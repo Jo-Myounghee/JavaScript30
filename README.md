@@ -184,3 +184,148 @@
 ### 1) 배운 점
 
 - 정규표현식
+
+
+
+## 18.  Adding Up Times with Reduce (12/18)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce
+
+### 1) 배운 점
+
+- `parseFloat()` : 문자열 -> 실수로 변환
+- `Math.floor()` : 내림
+
+
+
+## 19. Webcam Fun (12/19)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/19%20-%20Webcam%20Fun
+
+### 1) 배운 점
+
+- webcam 연결 및 사진 촬영
+
+
+
+## 20. Speech Detection (12/20)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/20%20-%20Speech%20Detection
+
+### 1) 배운 점
+
+- 음성 인식
+
+
+
+## 21. Geolocation (12/21)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/21%20-%20Geolocation
+
+### 1) 배운 점
+
+- 나침판기능 (맥에서만 가능)
+
+
+
+## 22. Follow Along Link Highlighter (12/22)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter
+
+### 1) 배운 점
+
+- 단어 효과
+
+
+
+## 23. Speech Synthesis (12/23)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/23%20-%20Speech%20Synthesis
+
+### 1) 배운 점
+
+- 음성으로 읽어주는 기능
+
+
+
+## 24. Sticky Nav (12/24)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/24%20-%20Sticky%20Nav
+
+### 1) 배운 점
+
+- Nav bar 상단 고정 기능
+
+
+
+## 25. Event Capture, Propagation, Bubbling and Once (12/25)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once
+
+### 1) 배운 점
+
+- Event Bubbling
+- Event Capture
+- `event.stopPropagation()`
+- Event Delegation
+- once
+
+
+
+## 26. Strip Follow Along Nav (12/26)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav
+
+### 1) 배운 점
+
+- navbar item에 마우스를 호버링 했을 때 dropdown 메뉴가 보여지는 기능
+
+
+
+## 27. Click and Drag (12/27)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/27%20-%20Click%20and%20Drag
+
+### 1) 배운 점
+
+- scrollLeft
+
+- e.pageX
+
+  
+
+## 28. Video Speed Controller (12/28)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/28%20-%20Video%20Speed%20Controller
+
+### 1) 배운 점
+
+- video.playbackRate
+- e.pageY
+- element.offsetTop
+
+
+
+## 29. Countdown Timer (12/29)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/29%20-%20Countdown%20Timer
+
+### 1) 배운 점
+
+- Date.now()
+- setInterval
+- clearInterval
+
+### 2) 추가하고 싶은 점
+
+- 0:00이 되면 timeover 글자 나오게 추가
+
+
+
+## 30. Whack A Mole (12/30)
+
+> https://github.com/Jo-Myounghee/JavaScript30/tree/master/30%20-%20Whack%20A%20Mole
+
+### 1) 추가하고 싶은 점
+
+- 두더지잡을 때 1~9 키패드를 사용해서도 잡을 수 있게 keydown 이벤트 추가
